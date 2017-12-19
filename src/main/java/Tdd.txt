@@ -1,0 +1,28 @@
+
+What is TDD:
+
+
+Why?
+
+
+Write the test
+Run the test (there is no implementation code, test does not pass)
+Write just enough implementation code to make the test pass
+Run all tests (tests pass)
+Refactor
+Repeat
+
+
+What is Junit?
+
+Assert?
+
+Annotations: Before, Test, after
+
+Test Method must be public and void.
+
+
+
+
+
+Test method name and class convention

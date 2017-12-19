@@ -1,0 +1,50 @@
+Type 1:
+
+Given any String say ABC
+
+Input: Removal character A
+Output: Remove the character from the String and return that String
+
+Type 2:
+
+Given any String say ABCAB  and remove character A from the first two characters.
+
+Input: Removal character A
+Output: Remove the character from the String and return that String
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------
+
+Cases:
+
+"" => ""
+
+"A" => ""
+
+"BW" => "BW"
+
+"ABCD" => "BCD"
+
+
+

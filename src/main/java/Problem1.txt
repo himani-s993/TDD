@@ -1,0 +1,15 @@
+Given: Any String say AB or ABC
+
+Output: Swap the last 2 character of that String.
+
+What are possible edge cases or possible values of String????
+
+Input String:
+
+"" => ""
+
+"Q" => "Q"
+
+"Antriksh" => "Antrikhs"
+
+"This is d" => "This isd "
