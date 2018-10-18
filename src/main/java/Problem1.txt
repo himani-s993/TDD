@@ -10,6 +10,6 @@ Input String:
 
 "Q" => "Q"
 
-"Antriksh" => "Antrikhs"
+"Array" => "Arrya"
 
 "This is d" => "This isd "
